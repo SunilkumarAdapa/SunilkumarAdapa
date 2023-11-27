@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilkumaradapa" alt="sunilkumaradapa" /></a> </p>
 
-- 💬 Ask me about **Machine Learning , Deep Learning , Generative A**
+- 💬 Ask me about **Machine Learning , Deep Learning , Generative AI, Reinforcement Learning**
 
 - 📫 How to reach me **adapasunilkumar123@gmail.com**
 
