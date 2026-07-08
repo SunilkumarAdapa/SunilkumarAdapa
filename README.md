@@ -36,11 +36,6 @@ My work focuses on developing high-resolution climate prediction systems using *
 
 - Deep Learning based Statistical Downscaling
 - Climate Model Evaluation & Ranking
-- Bias Correction of CMIP6 Climate Models
-- Climate Change Impact Assessment
-- Earth Observation Data Analysis
-- Explainable AI for Climate Applications
-
 ---
 
 # Tech Stack
