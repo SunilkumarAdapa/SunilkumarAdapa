@@ -1,133 +1,96 @@
-<!-- ========================================================= -->
-<!--                 GitHub Profile README                     -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Sunil Kumar Adapa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Sunil%20Kumar%20Adapa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Climate%20AI%20Researcher%20|%20Deep%20Learning%20Engineer&descAlignY=60"/>
 
-### 🌍 Climate AI Researcher • 🤖 Deep Learning Engineer • 🛰️ Computer Vision Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=750&lines=Climate+AI+Researcher;Deep+Learning+%7C+Machine+Learning;Statistical+Downscaling;Computer+Vision;Remote+Sensing;Always+Learning+Something+New"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Climate+AI+Researcher;Deep+Learning+%7C+Machine+Learning;Statistical+Downscaling+using+AI;Computer+Vision+%7C+Earth+Observation;Always+Learning+Something+New+🚀" />
-
-<br>
+<p>
 
 <a href="https://github.com/SunilkumarAdapa">
-<img src="https://komarev.com/ghpvc/?username=SunilkumarAdapa&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SunilkumarAdapa&style=for-the-badge&color=2563EB"/>
 </a>
 
 <a href="https://github.com/SunilkumarAdapa?tab=followers">
-<img src="https://img.shields.io/github/followers/SunilkumarAdapa?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/SunilkumarAdapa?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/SunilkumarAdapa">
-<img src="https://img.shields.io/github/stars/SunilkumarAdapa?affiliations=OWNER&style=for-the-badge"/>
+<a href="mailto:adapasunilkumar123@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"/>
 </a>
+
+<a href="https://www.linkedin.com/in/adapasunilkumar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# About Me
 
-🌍 Researching **Climate AI** and **Deep Learning-based Statistical Downscaling**
+I am a **Climate AI Researcher** focused on applying **Deep Learning** and **Machine Learning** to climate science.
 
-🛰️ Working with **CMIP6**, **ERA5**, **Remote Sensing**, and **Earth Observation Data**
+My research combines **CMIP6 climate models**, **ERA5 reanalysis**, and **Earth Observation datasets** to develop high-resolution climate prediction systems and statistical downscaling methods.
 
-🤖 Interested in **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Explainable AI**
+### Current Work
 
-📚 Currently learning **Vision Transformers**, **Diffusion Models**, and **Large Language Models**
-
-💻 Passionate about building AI systems for solving real-world climate problems.
-
----
-
-# 🚀 Current Focus
-
-- 🌧️ Statistical Downscaling
-- 🌡️ Climate Change Modeling
-- 🛰️ Remote Sensing
-- 🤖 Deep Learning
-- 📈 Time Series Forecasting
-- 🧠 Computer Vision
-- 🌍 Climate Data Analytics
+- Statistical Downscaling using Deep Learning
+- Climate Model Evaluation & Ranking
+- Bias Correction of CMIP6 Models
+- Climate Change Impact Analysis
+- Earth Observation Data Processing
+- Explainable AI for Climate Applications
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
-### Languages
+### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,bash"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,bash,mysql"/>
 </p>
 
-### AI / Machine Learning
+### AI & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn"/>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-grey?style=flat-square"/>
+<img src="https://img.shields.io/badge/LightGBM-grey?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-grey?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-grey?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-grey?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-grey?style=flat-square"/>
 </p>
 
----
-
-### 🌍 Climate & Geospatial Tools
+### Climate Science
 
 <p>
-
-<img src="https://img.shields.io/badge/xarray-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NetCDF4-007ACC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Dask-FC6E6E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/XESMF-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cartopy-3F51B5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CDO-2196F3?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NCO-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ERA5-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CMIP6-E91E63?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/CMIP6-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/ERA5-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/xarray-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/NetCDF4-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dask-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/XESMF-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cartopy-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/CDO-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/NCO-1F6FEB?style=flat-square"/>
 </p>
 
----
-
-### Tools
+### Development
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,jupyter"/>
-
 </p>
 
 ---
 
-# ⭐ Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🌧️ Climate Downscaling | Deep Learning models for high-resolution climate prediction |
-| 🌡️ Climate Model Ranking | Evaluation and ranking of CMIP6 GCMs |
-| 🛰️ Earth Observation | Climate data analysis using ERA5 & Remote Sensing |
-| 🍎 Food Scanner AI | AI-powered food segmentation and nutrition analysis |
-| 🩸 Medical AI | Hemoglobin estimation using Deep Learning |
-
----
-
-# 📊 GitHub Analytics
+# GitHub Statistics
 
 <div align="center">
 
@@ -137,17 +100,17 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilkumarAdapa&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilkumarAdapa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Activity
 
 <div align="center">
 
@@ -157,52 +120,8 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SunilkumarAdapa&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/adapasunilkumar">
-
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:adapasunilkumar123@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-> *"Artificial Intelligence has the power to transform climate science into actionable solutions for a sustainable future."* 🌍
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
 
 </div>
