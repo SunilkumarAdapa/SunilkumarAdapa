@@ -28,7 +28,7 @@
 
 # About Me
 
-I am a **Climate AI Researcher** passionate about applying **Machine Learning** and **Deep Learning** to climate science.
+I am a **Climate AI** passionate about applying **Machine Learning** and **Deep Learning** to climate science.
 
 My work focuses on developing high-resolution climate prediction systems using **CMIP6**, **ERA5**, and **Earth Observation** datasets.
 
