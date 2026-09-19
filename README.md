@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sunil Kumar
 
-### AI Researcher | Climate AI | Deep Learning | Computer Vision
+### ML Researcher | Climate AI | Deep Learning | Computer Vision
 
 I'm a researcher working at the intersection of **Artificial Intelligence, Climate Science, and Computer Vision**.
 
